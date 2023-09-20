@@ -4,4 +4,11 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+---
+
+``` javascript
+var myValue = "Hello World!";
+```
+
+
 ###### Smallest Heading. and this is the initial commit for markdown heading tutorial. 
